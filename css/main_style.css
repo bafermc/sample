@@ -6,3 +6,6 @@ header{
     color: #eee;
     text-align: center;
 }
+header h1{
+    margin:1.5em 5em 0.5em 5em;
+}
